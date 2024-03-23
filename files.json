@@ -1,6 +1,14 @@
 [
  {
     "name": "Ngunyumu - Nairobi County",
-    "url":"files/ngunyumu.mbtiles"
+    "url":"files/ngunyumu.mbtiles",
+    "bounds":[],
+    "code":"NGM"
+ }  ,
+ {
+    "name": "Githogondo - Kirinyaga County",
+    "url":"files/githogondo.mbtiles",
+    "bounds":[],
+    "code":"NGM"
  }   
 ]

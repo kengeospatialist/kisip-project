@@ -62,7 +62,7 @@
  {
     "name": "Kibundani - Mombasa County",
     "url":"files/kibundani.mbtiles"
- } ,
+ },
  {
     "name": "Kikambala - Mombasa County",
     "url":"files/kikambala.mbtiles"
@@ -77,11 +77,11 @@
  } ,
  {
     "name": "Kaloleni Phase 1A - Taita Taveta County",
-    "url":"files/kaloleni_phase_1a.mbtiles"
+    "url":"files/kaloleni_phase_1Ambtiles"
  } ,
  {
     "name": "Kaloleni Phase 1B - Taita Taveta County",
-    "url":"files/kaloleni_phase_1b.mbtiles"
+    "url":"files/kaloleni_phase_1A.mbtiles"
  } ,
  {
     "name": "Kariobangi - Taita Taveta County",
